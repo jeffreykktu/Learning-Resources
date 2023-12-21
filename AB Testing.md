@@ -1,4 +1,13 @@
 ## A/B Testing
+
+### Free Courses
+- Introduction to AB Testing - https://www.udacity.com/course/ab-testing--ud257
+
+### Videos
+- A/B Testing Made Easy: Real-Life Example and Step-by-Step Walkthrough for Data Scientists!
+By Emma Ding - https://www.youtube.com/watch?v=VuKIN9S8Ivs
+- A/B Testing: Test Your Own Hypotheses & Prepare to be Wrong - Stuart Frisby - https://www.youtube.com/watch?v=VQpQ0YHSfqM
+
 ### Podcast 
 1. A/B testing at Airbnb - Che Sharma - The Data Scientist Show #068 with Chetan Sharma & Daliana Liu
 - 🔗 https://www.youtube.com/watch?v=erW_AvYRERo
